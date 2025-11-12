@@ -56,14 +56,6 @@ This Application has a full 100 score on the Lighthouse benchmark.
 - Zod
 - Cypress
 
-## Screenshots
-- Desktop
-
-![Desktop Screenshot Home](/screenshots/screenshot-desktop-home.png) ![Desktop Screenshot Result](/screenshots/screenshot-desktop-result.png)
-- Mobile
-
-![Mobile Screenshot Home](/screenshots/screenshot-mobile-home.png) ![Mobile Screenshot Result](/screenshots/screenshot-mobile-result.png)
-
 ## Author
 Taro Shibusawa
 
