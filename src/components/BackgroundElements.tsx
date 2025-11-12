@@ -9,11 +9,11 @@ const BackgroundElements = () => {
 
         <p className="font-bold text-sm md:text-xl">
           <a
-            href="https://www.rashidshamloo.com"
+            href="https://taroshibusawa.plateful.info"
             target="_blank"
             className="transition-all duration-200 hover:text-cyan-50 before:absolute before:h-[1px] before:w-0 before:will-change-transform before:bg-cyan-50 before:bottom-0 before:left-1/2 before:-translate-x-1/2 hover:before:w-full before:transition-all before:duration-500"
           >
-            Rashid Shamloo
+            Taro Shibusawa
           </a>
         </p>
       </div>
