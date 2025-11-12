@@ -16,7 +16,7 @@ import '@/styles/globals.css';
 import { inter } from '@/ui/fonts';
 
 export const metadata: Metadata = {
-  title: 'AI Face Detection by Rashid Shamloo',
+  title: 'AI Face Detection by Taro Shibusawa',
   description: 'AI Face Detection with age, gender, and ethnicity recognition',
   keywords: [
     'AI',
@@ -26,35 +26,35 @@ export const metadata: Metadata = {
     'ethnicity',
     'age',
     'race',
-    'rashid shamloo',
+    'Taro Shibusawa',
   ],
   icons: { icon: '/images/favicon.png' },
-  metadataBase: new URL('https://ai-face-detection.rashidshamloo.com'),
+  metadataBase: new URL('http://localhost:3000'),
   openGraph: {
     type: 'website',
     locale: 'en_US',
     url: '/',
-    title: 'AI Face Detection by Rashid Shamloo',
-    siteName: 'AI Face Detection by Rashid Shamloo',
+    title: 'AI Face Detection by Taro Shibusawa',
+    siteName: 'AI Face Detection by Taro Shibusawa',
     description:
       'AI face detection with age, gender, and ethnicity recognition',
     images: {
-      url: '/images/screenshots/home.webp',
-      alt: 'AI Face Detection by Rashid Shamloo',
+      url: '/images/screenshots/home.png',
+      alt: 'AI Face Detection by Taro Shibusawa',
       width: 1200,
       height: 654,
-      type: 'image/webp',
-      secureUrl: '/images/screenshots/home.webp',
+      type: 'image/png',
+      secureUrl: '/images/screenshots/home.png',
     },
   },
   twitter: {
     card: 'summary_large_image',
-    title: 'AI Face Detection by Rashid Shamloo',
+    title: 'AI Face Detection by Taro Shibusawa',
     description:
       'AI face detection with age, gender, and ethnicity recognition',
-    images: '/images/screenshots/home.webp',
-    creator: '@rashidshamloo',
-    site: '@rashidshamloo',
+    images: '/images/screenshots/home.png',
+    creator: '@taroshibusawa',
+    site: '@taroshibusawa',
   },
 };
 

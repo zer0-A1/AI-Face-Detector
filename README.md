@@ -4,7 +4,6 @@
 
 This AI-powered face detection application can detect faces at various angles and detect multiple faces in a photo simultaneously with high accuracy. It can also recognize the age, gender, and ethnicity of each detected face.
 
-Live Demo: [https://ai-face-detection.rashidshamloo.com/](https://ai-face-detection.rashidshamloo.com/)
 
 ## External API
 
@@ -66,10 +65,8 @@ This Application has a full 100 score on the Lighthouse benchmark.
 ![Mobile Screenshot Home](/screenshots/screenshot-mobile-home.png) ![Mobile Screenshot Result](/screenshots/screenshot-mobile-result.png)
 
 ## Author
-Rashid Shamloo
+Taro Shibusawa
 
-- Portfolio - [rashidshamloo.com](https://www.rashidshamloo.com)
-- Linkedin - [rashid-shamloo](https://www.linkedin.com/in/rashid-shamloo/)
-- Dev.to - [@rashidshamloo](https://dev.to/rashidshamloo)
-- Twitter - [@rashidshamloo](https://www.twitter.com/rashidshamloo)
-- Email - [rashidshamloo@gmail.com](mailto:rashidshamloo@gmail.com)
+- Portfolio - [Taro Shibusawa](https://taroshibusawa.plateful.info)
+- Linkedin - [Taro Shibusawa](https://www.linkedin.com/in/taro-shibusawa/)
+- Email - [taro.n4g@gmail.com](mailto:taro.n4g@gmail.com)
